@@ -1,0 +1,7 @@
+{
+   
+// Enable/disable JavaScript validation. (For Flow)
+//"javascript.validate.enable": false,
+"flow.enabled": true,
+"flow.pathToFlow": "flow"
+}
